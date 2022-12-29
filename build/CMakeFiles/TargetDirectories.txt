@@ -1,3 +1,0 @@
-/home/brian/repos/numbers/build/CMakeFiles/exe.dir
-/home/brian/repos/numbers/build/CMakeFiles/edit_cache.dir
-/home/brian/repos/numbers/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/g++-12 CMakeFiles/exe.dir/sources/Solution.cpp.o CMakeFiles/exe.dir/sources/main.cpp.o -o /home/brian/repos/numbers/bin/exe   -L/home/brian/repos/numbers/lib  -Wl,-rpath,/home/brian/repos/numbers/lib /usr/local/lib/libfmt.a 

@@ -1,7 +1,0 @@
-require_relative 'numbers/revpol-to-tree'
-require_relative 'numbers/tree-transformer'
-require_relative 'numbers/tree-optimiser'
-require_relative 'numbers/tree-normaliser'
-require_relative 'numbers/tree-to-string'
-require_relative 'numbers/solver'
-require_relative 'numbers/runner'
